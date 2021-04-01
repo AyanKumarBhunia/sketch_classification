@@ -1,1 +1,1 @@
-# sketch_classification
+# Sketch CLassification on TU-Berlin Dataset
