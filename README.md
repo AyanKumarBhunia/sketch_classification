@@ -1,4 +1,4 @@
-# Sketch CLassification on TU-Berlin Dataset
+# Sketch Classification on TU-Berlin Dataset
 
 Pre-Trained ResNet50 Model: https://drive.google.com/file/d/1l78iAuyRVepF44yWfcE1HRRbJMVIoCEE/view?usp=sharing
 
